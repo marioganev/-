@@ -1,0 +1,7 @@
+C:\Users\User\Desktop\MVCProject\MVC-Model\obj\Debug\MVC-Model.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVCProject\MVC-Model\obj\Debug\MVC-Model.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVCProject\MVC-Model\bin\Debug\MVC-Model.dll.config
+C:\Users\User\Desktop\MVCProject\MVC-Model\bin\Debug\MVC-Model.dll
+C:\Users\User\Desktop\MVCProject\MVC-Model\bin\Debug\MVC-Model.pdb
+C:\Users\User\Desktop\MVCProject\MVC-Model\obj\Debug\MVC-Model.dll
+C:\Users\User\Desktop\MVCProject\MVC-Model\obj\Debug\MVC-Model.pdb

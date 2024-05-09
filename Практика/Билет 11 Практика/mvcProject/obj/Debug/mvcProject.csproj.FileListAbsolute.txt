@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\MVCProject\mvcProject\obj\Debug\mvcProject.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVCProject\mvcProject\obj\Debug\mvcProject.Properties.Resource.resources
+C:\Users\User\Desktop\MVCProject\mvcProject\obj\Debug\mvcProject.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVCProject\mvcProject\obj\Debug\mvcProject.csproj.CoreCompileInputs.cache

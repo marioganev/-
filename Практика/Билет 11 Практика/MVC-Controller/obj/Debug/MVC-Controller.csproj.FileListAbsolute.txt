@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\MVCProject\MVC-Controller\obj\Debug\MVC-Controller.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVCProject\MVC-Controller\obj\Debug\MVC-Controller.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVCProject\MVC-Controller\bin\Debug\MVC-Controller.dll.config
+C:\Users\User\Desktop\MVCProject\MVC-Controller\bin\Debug\MVC-Controller.dll
+C:\Users\User\Desktop\MVCProject\MVC-Controller\bin\Debug\MVC-Controller.pdb
+C:\Users\User\Desktop\MVCProject\MVC-Controller\bin\Debug\MVC-Model.dll
+C:\Users\User\Desktop\MVCProject\MVC-Controller\bin\Debug\MVC-Model.pdb
+C:\Users\User\Desktop\MVCProject\MVC-Controller\bin\Debug\MVC-Model.dll.config
+C:\Users\User\Desktop\MVCProject\MVC-Controller\obj\Debug\MVC-Controller.csproj.CopyComplete
+C:\Users\User\Desktop\MVCProject\MVC-Controller\obj\Debug\MVC-Controller.dll
+C:\Users\User\Desktop\MVCProject\MVC-Controller\obj\Debug\MVC-Controller.pdb
