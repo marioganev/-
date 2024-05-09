@@ -1,0 +1,30 @@
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\AddressRegister.exe.config
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\AddressRegister.exe
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\AddressRegister.pdb
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.dll
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.SqlServer.dll
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.xml
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.SqlServer.xml
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.AssemblyReference.cache
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.Form1.resources
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.Properties.Resources.resources
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.GenerateResource.cache
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.CoreCompileInputs.cache
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.CopyComplete
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.exe
+F:\28 кабинет\ПГПИ\Протокол 14 ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.pdb
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\AddressRegister.exe.config
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\AddressRegister.exe
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\AddressRegister.pdb
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.dll
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.xml
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.AssemblyReference.cache
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.Form1.resources
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.Properties.Resources.resources
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.GenerateResource.cache
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.CoreCompileInputs.cache
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.csproj.CopyComplete
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.exe
+C:\Users\User 12\Desktop\matura 24\Практика\ПРАКТИКА Протокол 14 - 14т. по конспект - ЗА ДЗИ\AddressRegister\obj\Debug\AddressRegister.pdb
