@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC-View.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC_View.UsersView.resources
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC_View.Properties.Resources.resources
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC-View.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC-View.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-View.dll.config
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-View.dll
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-View.pdb
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-Controller.dll
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-Model.dll
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-Controller.pdb
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-Controller.dll.config
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-Model.pdb
+C:\Users\User\Desktop\MVCProject\MVC-View\bin\Debug\MVC-Model.dll.config
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC-View.csproj.CopyComplete
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC-View.dll
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\Debug\MVC-View.pdb

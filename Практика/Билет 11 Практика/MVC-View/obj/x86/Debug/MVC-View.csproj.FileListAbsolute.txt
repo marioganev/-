@@ -1,0 +1,4 @@
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\x86\Debug\MVC_View.UsersView.resources
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\x86\Debug\MVC_View.Properties.Resources.resources
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\x86\Debug\MVC-View.csproj.GenerateResource.cache
+C:\Users\User\Desktop\MVCProject\MVC-View\obj\x86\Debug\MVC-View.csproj.CoreCompileInputs.cache
